@@ -28,7 +28,7 @@ A Tokopedia dataset sample of over 1000 records. Dataset was extracted using the
 And a lot more.
 
 This is a sample subset which is derived from the "Tokopedia products"
-dataset which includes more than <b>1.1M records</b>.
+dataset which includes more than <b>1.2M records</b>.
 
 Available dataset file formats: <b>JSON, NDJSON, JSON Lines, CSV, or Parquet. Optionally, files can be compressed to .gz</b>.
 
@@ -42,14 +42,14 @@ Data enrichment available as an addition to the data points extracted: <b>Based 
 
 <h2>What are the Tokopedia datasets use cases?</h2>
 
-<h3>1. Media Trend Analysis</h3>
-Track media trends and analyze the evolution of news coverage over time using Tokopedia datasets, with a focus on topic frequency and framing.
+<h3>1. Product Insights & Pricing Strategy</h3>
+Discover Tokopedia's top-selling products to enhance your inventory, pricing, and supply chain strategies. Leverage insights on popular searches and high-demand items to fine-tune your marketing efforts and maintain a competitive edge in the market.
 
-<h3>2.  Information Integrity</h3>
-To develop algorithms using Tokopedia datasets that detect fake news and assess the integrity of information.
+<h3>2.  Competitive Analysis</h3>
+Outpace Tokopedia’s top sellers by examining their product offerings, customer reviews, and promotional strategies. Uncover new business opportunities and gain insights to strengthen your marketplace presence.
 
-<h3>3. Economic Forecasting</h3>
-Integrate Tokopedia datasets into sophisticated algorithmic trading models and economic forecasting tools. By feeding real-time news data into trading algorithms, the goal is to enable these systems to respond swiftly and effectively to market movements triggered by breaking news events, economic reports, or political developments. 
+<h3>3. Consumer Sentiment & Brand Trends</h3>
+Keep track of trending categories and brands on Tokopedia to stay informed about changes in consumer demand. Analyze product popularity across regions to align your brand strategy with evolving buyer preferences.
 
 <h2>Free access to web scraping tools and datasets for academic researchers and NGOs</h2>
 
